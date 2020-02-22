@@ -39,4 +39,4 @@ result = common_prefix(list1)
 if not result :
     print('\'\'')
 else:
-    print(result)
+    print('\'',result,'\'')
